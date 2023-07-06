@@ -44,7 +44,7 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #37517e;
+  background: #714ea5;
 }
 
 #preloader:before {
@@ -52,7 +52,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #37517e;
+  border: 6px solid #714ea5;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -115,7 +115,7 @@ h6 {
 
 #header.header-scrolled,
 #header.header-inner-pages {
-  background: rgba(40, 58, 90, 0.9);
+  background: rgba(174, 174, 174, 0.9);
 }
 
 #header .logo {
@@ -133,7 +133,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 65px;
 }
 
 /*--------------------------------------------------------------
@@ -387,7 +387,7 @@ h6 {
 #hero {
   width: 100%;
   height: 80vh;
-  background: #37517e;
+  background: #714ea5;
 }
 
 #hero .container {
